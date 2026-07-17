@@ -24,6 +24,11 @@ FarMate is an agricultural support platform built to help Egyptian farmers diagn
 
 ---
 
+## Saved Model
+The model was trained on Kaggle and saved as `plant.h5`. To reproduce the model, run the notebook on Kaggle with the dataset attached and GPU enabled. Training takes approximately 1.5 hours on a T4 GPU.
+
+---
+
 ## Model Architecture
 | Layer | Details |
 |-------|---------|
