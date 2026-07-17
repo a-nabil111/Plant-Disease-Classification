@@ -75,11 +75,6 @@ This notebook is designed to run on Kaggle with the dataset attached directly.
 
 ---
 
-## Saved Model
-The trained model is saved as `plant.h5` and included in this repository for direct inference without retraining.
-
----
-
 ## Part of FarMate Graduation Project
 This repository is one component of the FarMate graduation project. The full platform includes:
 - **Plant Disease Detection** — this repository
